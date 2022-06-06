@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-- 🎯 I’m currently working on Cloud infrastructure
-- 🌱 I’m currently learning Rust and W3
+- 🎯 I’m currently working on Website development and Cloud infrastructure
+- 🌱 I’m currently learning W3
 - 👯 I’m looking to collaborate on developing some W3 projects!
 - 💬 Ask me about Front-end and Cloud infrastructure stuff
 - 📫 How to reach me: [Twitter](https://twitter.com/nattadetspite), [Instagram](https://www.instagram.com/lwxinm)
