@@ -7,6 +7,6 @@
 - 🧠 Research engineer at [BCI lab](https://www.facebook.com/bcilabth/) at Mahidol University
 - 📚 BEng Biomedical Engineering at Mahidol university
 - 💬 Ask me about Front-end and Cloud infrastructure stuff
-- 📫 keep in touch: [Twitter](https://twitter.com/nattadetspite), [Instagram](https://www.instagram.com/lwxinm)
+- 📫 keep in touch: [Linkedin](https://www.linkedin.com/in/nattadetc/), [Instagram](https://www.instagram.com/lwxinm)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Need Coffee 20g everyday.
