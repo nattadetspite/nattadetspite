@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I’m Nattadet Chinthanathatset
 - 💗 Technologist -> research, design, develop, build, deployment
 - 💻 Software engineer at [Refinitiv](https://www.refinitiv.com/en)
-- 🎨 Formerly creative technologist at [Bit.studio](https://bit.studio)
+- 🎨 Formerly Creative technologist at [Bit.studio](https://bit.studio)
 - 🧠 Research engineer at [BCI lab](https://www.facebook.com/bcilabth/) at Mahidol University
 - 🧠 Inter R&D at [Iramina lab](http://bie.inf.kyushu-u.ac.jp/lab_en.html) at Kyushu University
 - 📚 BEng Biomedical Engineering at Mahidol University
