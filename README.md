@@ -3,9 +3,9 @@
 - 👨🏻‍💻 I’m Nattadet Chinthanathatset
 - 💗 Technologist -> research, design, develop, build, deployment
 - Exp
-  - 💻 Currently, Senior software engineer at [Bit.studio](https://bit.studio)
+  - 💻 Currently, Creative Technologist at [Bit.studio](https://bit.studio)
   - 💻 Former Senior Software engineer at [Refinitiv](https://www.refinitiv.com/en)
-  - 💻 🎨 Creative technologist at [Bit.studio](https://bit.studio)
+  - 💻 🎨 Creative Technologist at [Bit.studio](https://bit.studio)
   - 🧠 Research engineer at [BCI lab](https://www.facebook.com/bcilabth/) at Mahidol University 🇹🇭
   - 🧠 Intern R&D at [Iramina lab](http://bie.inf.kyushu-u.ac.jp/lab_en.html) at Kyushu University 🇯🇵
 - Education
